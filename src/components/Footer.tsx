@@ -58,8 +58,8 @@ const Footer: React.FC = () => {
                 <span>colorfulthunders@gmail.com</span>
               </li>
               <li className="text-gray-400 mt-4">
-                San Francisco Bay Area,<br />
-                California, United States
+                Melbounre<br />
+                Victoria, Australia
               </li>
             </ul>
           </div>
